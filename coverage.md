@@ -1,0 +1,233 @@
+# Coverage
+
+Updated 2026-11-10T20:17:44.583267+00:00
+
+77 of 300 companies have a job feed the radar checks every run.
+
+## No public feed found (223)
+
+These need a pinned feed in companies.txt or are covered by Claude's daily check.
+
+- AERLIN
+- AIRMO
+- ARC Intelligence
+- Adidas
+- Agent F
+- Airbank
+- Airbus
+- All3
+- Alldus
+- Alphin
+- Amara
+- Arvato Financial Services
+- Ascléa
+- Audi
+- Aviv
+- BASF
+- BP
+- Barclays Corporate & Investment Bank
+- Berlin Brands Group
+- Blinkist
+- Blocks
+- Bolt
+- Boston Consulting Group
+- Candis
+- Cellbricks
+- Circle Health
+- Clark
+- Clera
+- Cobalt
+- Cognee
+- ComplyDo
+- Crown Equipment
+- Cygrid
+- DCS
+- DeepL
+- Deutsche Sanierungsberatung
+- Diligent AI
+- Doodle
+- Dr. Vivien Karl
+- Elephant Company
+- Elopage
+- Enter
+- Eterno
+- Expatrio
+- F13
+- FENKA Robotics
+- Finleap
+- Finmid
+- Flagright
+- Flink
+- Flocta
+- Focused Energy
+- Forto
+- FreightHub
+- Freshflow
+- Fuchs & Eule
+- Fuxam
+- GeneralMind
+- GitButler
+- Glitter Spritz
+- Google
+- Ground A
+- Heycar
+- HomeToGo
+- Honig Games
+- Hot Boys Cry
+- Hugo Boss
+- Hypathos
+- INJU
+- INXM
+- IX Group
+- ImmobilienScout24
+- Immoly
+- Insellar
+- Insha
+- Integral
+- Joy
+- Just 4 Noise
+- Just Eat Takeaway
+- Kalz
+- Kayak
+- King
+- Klar
+- Klarna
+- Klöckner
+- Kontist
+- Kraken Digital Asset Exchange
+- Kuro
+- Kyrok
+- Lano
+- LawX
+- Level Nine
+- Lilium
+- Linearity
+- LiveEO
+- Lookiero Outfittery Group
+- Lufthansa Innovation Hub
+- MILES
+- MODIFI
+- Mercedes Pay
+- Meta
+- Mews
+- Microsoft
+- Midas
+- Mister Spex
+- Mondu
+- Moss
+- Nagarro
+- Nanolope
+- Nenna AI
+- Neptune for Kids
+- NexDash
+- NextGO Epi
+- Nomerra
+- Nomos
+- Novumstate
+- Nox Mobility
+- Noxtua
+- Nuri
+- OYL Foods
+- Oda
+- OllyGarden
+- On
+- OneFootball
+- Onfido
+- OpenPayd
+- Opera
+- Orange Quarter
+- PPRO
+- Pace Race
+- Pacifico Biolab
+- Palma.ai
+- PayPal
+- Payment Genes
+- Penta
+- Personio
+- Phantasma Labs
+- Phase0
+- Placed
+- Planetly
+- Plato
+- Pleo
+- Porelio
+- Prior Labs
+- Publicis Sapient
+- Qdrant
+- Qonto
+- Rain
+- Ratepay
+- Recare
+- Remi Health
+- Revolut
+- SAP
+- SO1
+- SPREAD AI
+- Salesforce
+- Scalable Capital
+- Sendify
+- Sennder
+- Seqana
+- Service4Charger
+- Seven Education
+- Shares.io
+- Smava
+- Softgarden
+- Solarisbank
+- Sophia
+- Sopra Banking
+- SoundCloud
+- Spark Networks
+- Spread AI
+- Stark
+- Stark Defense
+- TODAY / UseToday
+- Tacalyx
+- Tawo
+- Taxfix
+- Tesla
+- Theo
+- Tier Mobility
+- Tokura
+- Tower
+- ToysReloved
+- TukToro
+- Unzer
+- Urban Sports Club
+- VARM
+- VREY
+- Vinted
+- Visa
+- Vivanta
+- Vivid Money
+- Vivy
+- Wefox
+- WhyBrilliant
+- Wolt
+- World Food Programme
+- YGO
+- YOU(th)
+- Yager Games
+- Yara International
+- Yokoy
+- Zalando
+- Zelara
+- Zell
+- atlea
+- bunch
+- cargo.one
+- eBay
+- enclaive
+- finperks
+- hellomed
+- heyData
+- metiundo
+- metr
+- mika
+- n8n
+- reverse.fashion
+- sci2sci
+- telli
+- €base
+- 🆕 Conlio
+- 🆕 Lazzaro One
