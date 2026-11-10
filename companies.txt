@@ -1,0 +1,164 @@
+# Ilayda's target companies — one per line.
+# The radar finds each company's job feed automatically on the first run
+# and saves it in feeds.json. If it picks the wrong one or finds none,
+# pin it here like:   Company Name | greenhouse:slug
+# Supported: greenhouse, lever, lever_eu, ashby, personio, smartrecruiters, workable, recruitee
+# Lines starting with # are ignored.
+
+Adidas
+Adyen | greenhouse:adyen
+Airbank
+Airwallex
+Alldus
+Alphin
+Alteos
+Amazon
+Arvato Financial Services
+Asos
+Auto1 | smartrecruiters:Auto1
+AutoScout24
+Aviv
+Babbel
+Barclays Corporate & Investment Bank
+Berlin Brands Group
+Billie
+Bitpanda
+Blinkist
+Bolt
+BP
+Boston Consulting Group
+Candis
+Ceezer
+Change
+Checkout.com | greenhouse:checkoutcom
+Clark
+Cobalt
+Contentful | greenhouse:contentful
+Cosuno
+DCS
+DeepL
+Delivery Hero | smartrecruiters:DeliveryHero
+Doctolib
+Doodle
+DoorDash | greenhouse:doordashusa
+Dunnhumby
+Duolingo | greenhouse:duolingo
+eBay
+Elopage
+Enter
+€base
+Expatrio
+Finleap
+Flink
+Flix
+Forto
+FreightHub
+GetYourGuide | greenhouse:getyourguide
+Google
+Grover
+HelloFresh | greenhouse:hellofresh
+Heycar
+home24
+HomeToGo
+Hugo Boss
+Hypathos
+IDnow
+ImmobilienScout24
+Insha
+JetBrains
+Kayak
+King
+Klar
+Klarna
+Kontist
+Kraken Digital Asset Exchange
+Lano
+LinkedIn
+Lufthansa Innovation Hub
+Mercedes Pay
+Meta
+Mews
+Microsoft
+MILES
+Miro | greenhouse:realtimeboardglobal
+Mister Spex
+MODIFI
+Mondu
+Moonfare
+Moss
+N26 | greenhouse:n26
+Nuri
+Oda
+OLX Group
+Omio
+OneFootball
+Onfido
+OpenPayd
+Opera
+Orange Quarter
+Payment Genes
+PayPal
+Penta
+Personio
+Planetly
+Pleo
+PPRO
+Publicis Sapient
+Qonto
+Rain
+Ratepay
+Revolut
+Riot Games
+Salesforce
+SAP
+Scalable Capital
+Sendify
+Sennder
+Shares.io
+Smartly.io | greenhouse:smartlyio
+Smava
+Snowflake
+SO1
+Softgarden
+Solarisbank
+Sopra Banking
+SoundCloud
+Spark Networks
+Spotify | lever:spotify
+StepStone
+Stripe | greenhouse:stripe
+SumUp
+Sunday
+Just Eat Takeaway
+Taxfix
+Tier Mobility
+Tomorrow
+Trade Republic
+Trendyol
+Unzer
+Upvest
+Urban Sports Club
+Linearity
+Vinted
+Visa
+Vivid Money
+Vivy
+Wayfair
+Wefox
+Wolt
+World Food Programme
+Yager Games
+Yara International
+Yokoy
+Zalando
+Zenjob
+On
+Klöckner
+Tesla
+Nagarro
+BASF
+Airbus
+Audi
+Crown Equipment
+Lilium
+n8n

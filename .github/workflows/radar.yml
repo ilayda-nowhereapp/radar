@@ -1,0 +1,39 @@
+name: Job radar
+
+on:
+  schedule:
+    # Every 30 minutes, 06:00–22:30 Berlin time (cron is UTC).
+    - cron: "*/30 5-21 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: job-radar
+  cancel-in-progress: false
+
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Check job feeds
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: python radar.py
+      - name: Save state
+        run: |
+          git config user.name "job-radar"
+          git config user.email "job-radar@users.noreply.github.com"
+          git add feeds.json seen.json matches.csv coverage.md 2>/dev/null || true
+          if ! git diff --cached --quiet; then
+            git commit -m "radar: update state"
+            git push
+          fi
