@@ -1,10 +1,10 @@
 # Coverage
 
-Updated 2026-11-11T14:47:59.338478+00:00
+Updated 2026-11-11T15:43:18.566614+00:00
 
-108 of 300 companies have a job feed the radar checks every run.
+109 of 300 companies have a job feed the radar checks every run.
 
-## No public feed found (192)
+## No public feed found (191)
 
 These need a pinned feed in companies.txt or are covered by Claude's daily check.
 
@@ -85,7 +85,6 @@ These need a pinned feed in companies.txt or are covered by Claude's daily check
 - Level Nine
 - Lilium
 - Linearity
-- LinkedIn
 - LiveEO
 - Lookiero Outfittery Group
 - Lufthansa Innovation Hub
