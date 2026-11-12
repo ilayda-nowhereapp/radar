@@ -1,6 +1,6 @@
 # Coverage
 
-Updated 2026-11-12T18:19:48.820992+00:00
+Updated 2026-11-12T19:26:41.583479+00:00
 
 131 of 300 companies have a job feed the radar checks every run.
 
