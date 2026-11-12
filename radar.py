@@ -234,6 +234,32 @@ def recruitee_fetch(slug):
     return jobs, name
 
 
+def teamtailor_fetch(slug):
+    body = get(f"https://{slug}.teamtailor.com/jobs.rss", accept_json=False)
+    if not body or "<rss" not in body:
+        return None
+    try:
+        root = ET.fromstring(body)
+    except ET.ParseError:
+        return None
+    ns = {"tt": "https://teamtailor.com/locations"}
+    channel = root.find("channel")
+    if channel is None:
+        return None
+    jobs = []
+    for it in channel.findall("item"):
+        locs = [l.findtext("tt:city", "", ns) or l.findtext("tt:name", "", ns)
+                for l in it.findall("tt:locations/tt:location", ns)]
+        remote = (it.findtext("remoteStatus") or "").lower()
+        if remote in ("hybrid", "fully", "remote", "fully_remote"):
+            locs.append("Remote" if remote != "hybrid" else "Hybrid")
+        link = it.findtext("link", "")
+        jobs.append({"id": it.findtext("guid", "") or link, "title": it.findtext("title", ""),
+                     "location": " / ".join(dict.fromkeys(x for x in locs if x)),
+                     "url": link, "posted": it.findtext("pubDate", "")})
+    return jobs, channel.findtext("title")
+
+
 FETCHERS = {
     "greenhouse": gh_fetch,
     "lever": lever_fetch,
@@ -243,9 +269,10 @@ FETCHERS = {
     "smartrecruiters": smartrecruiters_fetch,
     "workable": workable_fetch,
     "recruitee": recruitee_fetch,
+    "teamtailor": teamtailor_fetch,
 }
 # Boards that report the company's name, so a guessed slug can be checked.
-NAMED = {"greenhouse", "smartrecruiters", "workable", "recruitee"}
+NAMED = {"greenhouse", "smartrecruiters", "workable", "recruitee", "teamtailor"}
 
 
 # ---------------------------------------------------------------- discovery
@@ -329,7 +356,8 @@ def funded_berlin_startups():
         if len(cells) < 3 or cells[0].lower() in ("company", "startup", "name"):
             continue
         if any("berlin" in c.lower() for c in cells[1:]):
-            names.append(cells[0])
+            # Drop the "🆕" badge the site puts in front of new entries.
+            names.append(re.sub(r"^[^\w€(]+", "", cells[0]).strip())
     return list(dict.fromkeys(n for n in names if 1 < len(n) < 60))
 
 

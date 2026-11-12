@@ -2,7 +2,7 @@
 # The radar finds each company's job feed automatically on the first run
 # and saves it in feeds.json. If it picks the wrong one or finds none,
 # pin it here like:   Company Name | greenhouse:slug
-# Supported: greenhouse, lever, lever_eu, ashby, personio, smartrecruiters, workable, recruitee
+# Supported: greenhouse, lever, lever_eu, ashby, personio, smartrecruiters, workable, recruitee, teamtailor
 # Lines starting with # are ignored.
 
 Adidas
@@ -85,7 +85,6 @@ Mister Spex
 MODIFI
 Mondu
 Moonfare
-Moss
 N26 | greenhouse:n26
 Nuri
 Oda
@@ -161,4 +160,27 @@ Airbus
 Audi
 Crown Equipment
 Lilium
-n8n
+
+# Added 12 Nov 2026: funded Berlin startups whose job board the radar couldn't find by itself
+Finmid | ashby:finmid.com
+Flagright | ashby:flagright.com
+Moss | ashby:moss
+Nomos | ashby:nomos
+Integral | ashby:integral-de
+Kuro | ashby:kuro
+Prior Labs | ashby:prior-labs
+Qdrant | ashby:qdrant.tech
+VREY | ashby:VREY
+YGO | ashby:ygo
+bunch | ashby:bunch
+cargo.one | ashby:cargo-one
+n8n | ashby:n8n
+Plato | personio:platoapp
+LiveEO | personio:liveeo-gmbh
+Noxtua | personio:noxtua
+SPREAD AI | personio:spread-gmbh
+Seven Education | personio:7education
+AIRMO | personio:airmo
+Cognee | workable:topoteretes-ug-haftungsbeschrankt
+heyData | teamtailor:heydata
+Blocks | teamtailor:blocks
