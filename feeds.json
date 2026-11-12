@@ -3,7 +3,10 @@
   "checked": "2026-11-10T20:17:01.483348+00:00"
  },
  "AIRMO": {
-  "checked": "2026-11-10T20:16:34.140372+00:00"
+  "ats": "personio",
+  "checked": "2026-11-12T16:29:46.737310+00:00",
+  "pinned": true,
+  "slug": "airmo"
  },
  "ARC Intelligence": {
   "checked": "2026-11-10T20:17:14.936699+00:00"
@@ -15,7 +18,7 @@
  },
  "Adyen": {
   "ats": "greenhouse",
-  "checked": "2026-11-12T15:23:47.572817+00:00",
+  "checked": "2026-11-12T16:29:46.732613+00:00",
   "pinned": true,
   "slug": "adyen"
  },
@@ -93,7 +96,7 @@
  },
  "Auto1": {
   "ats": "smartrecruiters",
-  "checked": "2026-11-12T15:23:47.573240+00:00",
+  "checked": "2026-11-12T16:29:46.733274+00:00",
   "pinned": true,
   "slug": "Auto1"
  },
@@ -145,7 +148,10 @@
   "slug": "blinkist"
  },
  "Blocks": {
-  "checked": "2026-11-10T20:16:40.925514+00:00"
+  "ats": "teamtailor",
+  "checked": "2026-11-12T16:29:46.737321+00:00",
+  "pinned": true,
+  "slug": "blocks"
  },
  "Bolt": {
   "ats": "workable",
@@ -180,7 +186,7 @@
  },
  "Checkout.com": {
   "ats": "greenhouse",
-  "checked": "2026-11-12T15:23:47.573953+00:00",
+  "checked": "2026-11-12T16:29:46.734283+00:00",
   "pinned": true,
   "slug": "checkoutcom"
  },
@@ -206,14 +212,17 @@
   "slug": "cobalt"
  },
  "Cognee": {
-  "checked": "2026-11-10T20:16:32.559572+00:00"
+  "ats": "workable",
+  "checked": "2026-11-12T16:29:46.737314+00:00",
+  "pinned": true,
+  "slug": "topoteretes-ug-haftungsbeschrankt"
  },
  "ComplyDo": {
   "checked": "2026-11-10T20:16:48.710355+00:00"
  },
  "Contentful": {
   "ats": "greenhouse",
-  "checked": "2026-11-12T15:23:47.574093+00:00",
+  "checked": "2026-11-12T16:29:46.734470+00:00",
   "pinned": true,
   "slug": "contentful"
  },
@@ -248,7 +257,7 @@
  },
  "Delivery Hero": {
   "ats": "smartrecruiters",
-  "checked": "2026-11-12T15:23:47.574371+00:00",
+  "checked": "2026-11-12T16:29:46.734814+00:00",
   "pinned": true,
   "slug": "DeliveryHero"
  },
@@ -270,7 +279,7 @@
  },
  "DoorDash": {
   "ats": "greenhouse",
-  "checked": "2026-11-12T15:23:47.574512+00:00",
+  "checked": "2026-11-12T16:29:46.734988+00:00",
   "pinned": true,
   "slug": "doordashusa"
  },
@@ -284,7 +293,7 @@
  },
  "Duolingo": {
   "ats": "greenhouse",
-  "checked": "2026-11-12T15:23:47.574528+00:00",
+  "checked": "2026-11-12T16:29:46.735012+00:00",
   "pinned": true,
   "slug": "duolingo"
  },
@@ -318,10 +327,16 @@
   "checked": "2026-11-10T20:16:03.919798+00:00"
  },
  "Finmid": {
-  "checked": "2026-11-10T20:17:06.955921+00:00"
+  "ats": "ashby",
+  "checked": "2026-11-12T16:29:46.737243+00:00",
+  "pinned": true,
+  "slug": "finmid.com"
  },
  "Flagright": {
-  "checked": "2026-11-10T20:16:49.457747+00:00"
+  "ats": "ashby",
+  "checked": "2026-11-12T16:29:46.737247+00:00",
+  "pinned": true,
+  "slug": "flagright.com"
  },
  "Flink": {
   "ats": "workable",
@@ -366,7 +381,7 @@
  },
  "GetYourGuide": {
   "ats": "greenhouse",
-  "checked": "2026-11-12T15:23:47.576138+00:00",
+  "checked": "2026-11-12T16:29:46.736950+00:00",
   "pinned": true,
   "slug": "getyourguide"
  },
@@ -399,7 +414,7 @@
  },
  "HelloFresh": {
   "ats": "greenhouse",
-  "checked": "2026-11-12T15:23:47.576149+00:00",
+  "checked": "2026-11-12T16:29:46.736969+00:00",
   "pinned": true,
   "slug": "hellofresh"
  },
@@ -452,7 +467,10 @@
   "slug": "insha"
  },
  "Integral": {
-  "checked": "2026-11-10T20:17:03.622023+00:00"
+  "ats": "ashby",
+  "checked": "2026-11-12T16:29:46.737258+00:00",
+  "pinned": true,
+  "slug": "integral-de"
  },
  "JetBrains": {
   "ats": "greenhouse",
@@ -509,7 +527,10 @@
   "checked": "2026-11-10T20:16:16.280394+00:00"
  },
  "Kuro": {
-  "checked": "2026-11-10T20:17:06.762285+00:00"
+  "ats": "ashby",
+  "checked": "2026-11-12T16:29:46.737261+00:00",
+  "pinned": true,
+  "slug": "kuro"
  },
  "Kyrok": {
   "checked": "2026-11-10T20:16:50.079641+00:00"
@@ -540,7 +561,10 @@
   "slug": "linkedin"
  },
  "LiveEO": {
-  "checked": "2026-11-10T20:16:46.563415+00:00"
+  "ats": "personio",
+  "checked": "2026-11-12T16:29:46.737293+00:00",
+  "pinned": true,
+  "slug": "liveeo-gmbh"
  },
  "Lookiero Outfittery Group": {
   "checked": "2026-11-10T20:16:36.300795+00:00"
@@ -579,7 +603,7 @@
  },
  "Miro": {
   "ats": "greenhouse",
-  "checked": "2026-11-12T15:23:47.576204+00:00",
+  "checked": "2026-11-12T16:29:46.737036+00:00",
   "pinned": true,
   "slug": "realtimeboardglobal"
  },
@@ -597,11 +621,14 @@
   "slug": "moonfare"
  },
  "Moss": {
-  "checked": "2026-11-10T20:16:09.818948+00:00"
+  "ats": "ashby",
+  "checked": "2026-11-12T16:29:46.737251+00:00",
+  "pinned": true,
+  "slug": "moss"
  },
  "N26": {
   "ats": "greenhouse",
-  "checked": "2026-11-12T15:23:47.576218+00:00",
+  "checked": "2026-11-12T16:29:46.737048+00:00",
   "pinned": true,
   "slug": "n26"
  },
@@ -632,7 +659,10 @@
   "checked": "2026-11-10T20:16:50.642648+00:00"
  },
  "Nomos": {
-  "checked": "2026-11-10T20:17:03.720110+00:00"
+  "ats": "ashby",
+  "checked": "2026-11-12T16:29:46.737255+00:00",
+  "pinned": true,
+  "slug": "nomos"
  },
  "Novumstate": {
   "checked": "2026-11-10T20:17:04.211057+00:00"
@@ -641,7 +671,10 @@
   "checked": "2026-11-10T20:16:51.379946+00:00"
  },
  "Noxtua": {
-  "checked": "2026-11-10T20:17:04.169717+00:00"
+  "ats": "personio",
+  "checked": "2026-11-12T16:29:46.737296+00:00",
+  "pinned": true,
+  "slug": "noxtua"
  },
  "Nuri": {
   "checked": "2026-11-10T20:16:11.797379+00:00"
@@ -749,7 +782,10 @@
   "checked": "2026-11-10T20:16:13.958954+00:00"
  },
  "Plato": {
-  "checked": "2026-11-10T20:16:33.395681+00:00"
+  "ats": "personio",
+  "checked": "2026-11-12T16:29:46.737289+00:00",
+  "pinned": true,
+  "slug": "platoapp"
  },
  "Pleo": {
   "checked": "2026-11-10T20:16:13.338600+00:00"
@@ -758,13 +794,19 @@
   "checked": "2026-11-10T20:16:56.034956+00:00"
  },
  "Prior Labs": {
-  "checked": "2026-11-10T20:17:06.241264+00:00"
+  "ats": "ashby",
+  "checked": "2026-11-12T16:29:46.737265+00:00",
+  "pinned": true,
+  "slug": "prior-labs"
  },
  "Publicis Sapient": {
   "checked": "2026-11-10T20:16:21.066376+00:00"
  },
  "Qdrant": {
-  "checked": "2026-11-10T20:16:38.628368+00:00"
+  "ats": "ashby",
+  "checked": "2026-11-12T16:29:46.737268+00:00",
+  "pinned": true,
+  "slug": "qdrant.tech"
  },
  "Qontext": {
   "ats": "ashby",
@@ -815,7 +857,10 @@
   "checked": "2026-11-10T20:16:17.988843+00:00"
  },
  "SPREAD AI": {
-  "checked": "2026-11-10T20:16:48.780253+00:00"
+  "ats": "personio",
+  "checked": "2026-11-12T16:29:46.737300+00:00",
+  "pinned": true,
+  "slug": "spread-gmbh"
  },
  "Salesforce": {
   "checked": "2026-11-10T20:16:15.637479+00:00"
@@ -836,14 +881,17 @@
   "checked": "2026-11-10T20:16:31.237060+00:00"
  },
  "Seven Education": {
-  "checked": "2026-11-10T20:16:45.054336+00:00"
+  "ats": "personio",
+  "checked": "2026-11-12T16:29:46.737306+00:00",
+  "pinned": true,
+  "slug": "7education"
  },
  "Shares.io": {
   "checked": "2026-11-10T20:16:23.348926+00:00"
  },
  "Smartly.io": {
   "ats": "greenhouse",
-  "checked": "2026-11-12T15:23:47.576297+00:00",
+  "checked": "2026-11-12T16:29:46.737120+00:00",
   "pinned": true,
   "slug": "smartlyio"
  },
@@ -875,7 +923,7 @@
  },
  "Spotify": {
   "ats": "lever",
-  "checked": "2026-11-12T15:23:47.576321+00:00",
+  "checked": "2026-11-12T16:29:46.737145+00:00",
   "pinned": true,
   "slug": "spotify"
  },
@@ -895,7 +943,7 @@
  },
  "Stripe": {
   "ats": "greenhouse",
-  "checked": "2026-11-12T15:23:47.576326+00:00",
+  "checked": "2026-11-12T16:29:46.737150+00:00",
   "pinned": true,
   "slug": "stripe"
  },
@@ -987,7 +1035,10 @@
   "checked": "2026-11-10T20:16:53.013340+00:00"
  },
  "VREY": {
-  "checked": "2026-11-10T20:16:42.989503+00:00"
+  "ats": "ashby",
+  "checked": "2026-11-12T16:29:46.737272+00:00",
+  "pinned": true,
+  "slug": "VREY"
  },
  "ViViRA": {
   "ats": "personio",
@@ -1027,7 +1078,10 @@
   "checked": "2026-11-10T20:16:30.470595+00:00"
  },
  "YGO": {
-  "checked": "2026-11-10T20:17:08.270811+00:00"
+  "ats": "ashby",
+  "checked": "2026-11-12T16:29:46.737275+00:00",
+  "pinned": true,
+  "slug": "ygo"
  },
  "YOU(th)": {
   "checked": "2026-11-10T20:16:39.074810+00:00"
@@ -1212,10 +1266,16 @@
   "checked": "2026-11-10T20:16:48.133188+00:00"
  },
  "bunch": {
-  "checked": "2026-11-10T20:16:43.483479+00:00"
+  "ats": "ashby",
+  "checked": "2026-11-12T16:29:46.737279+00:00",
+  "pinned": true,
+  "slug": "bunch"
  },
  "cargo.one": {
-  "checked": "2026-11-10T20:16:42.965884+00:00"
+  "ats": "ashby",
+  "checked": "2026-11-12T16:29:46.737282+00:00",
+  "pinned": true,
+  "slug": "cargo-one"
  },
  "eBay": {
   "ats": "workable",
@@ -1242,7 +1302,10 @@
   "slug": "hexafarms"
  },
  "heyData": {
-  "checked": "2026-11-10T20:16:29.398301+00:00"
+  "ats": "teamtailor",
+  "checked": "2026-11-12T16:29:46.737317+00:00",
+  "pinned": true,
+  "slug": "heydata"
  },
  "home24": {
   "ats": "smartrecruiters",
@@ -1259,7 +1322,10 @@
   "checked": "2026-11-10T20:17:03.363994+00:00"
  },
  "n8n": {
-  "checked": "2026-11-10T20:16:28.482189+00:00"
+  "ats": "ashby",
+  "checked": "2026-11-12T16:29:46.737286+00:00",
+  "pinned": true,
+  "slug": "n8n"
  },
  "reverse.fashion": {
   "checked": "2026-11-10T20:17:04.056062+00:00"

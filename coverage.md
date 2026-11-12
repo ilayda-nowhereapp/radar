@@ -1,15 +1,14 @@
 # Coverage
 
-Updated 2026-11-12T15:23:54.384623+00:00
+Updated 2026-11-12T16:29:52.386699+00:00
 
-109 of 300 companies have a job feed the radar checks every run.
+131 of 300 companies have a job feed the radar checks every run.
 
-## No public feed found (191)
+## No public feed found (169)
 
 These need a pinned feed in companies.txt or are covered by Claude's daily check.
 
 - AERLIN
-- AIRMO
 - ARC Intelligence
 - Agent F
 - Airbus
@@ -24,12 +23,10 @@ These need a pinned feed in companies.txt or are covered by Claude's daily check
 - BASF
 - Barclays Corporate & Investment Bank
 - Berlin Brands Group
-- Blocks
 - Candis
 - Cellbricks
 - Circle Health
 - Clera
-- Cognee
 - ComplyDo
 - Crown Equipment
 - Cygrid
@@ -45,8 +42,6 @@ These need a pinned feed in companies.txt or are covered by Claude's daily check
 - F13
 - FENKA Robotics
 - Finleap
-- Finmid
-- Flagright
 - Flocta
 - Focused Energy
 - Forto
@@ -69,7 +64,6 @@ These need a pinned feed in companies.txt or are covered by Claude's daily check
 - ImmobilienScout24
 - Immoly
 - Insellar
-- Integral
 - Joy
 - Just 4 Noise
 - Just Eat Takeaway
@@ -78,21 +72,18 @@ These need a pinned feed in companies.txt or are covered by Claude's daily check
 - Klar
 - Klöckner
 - Kraken Digital Asset Exchange
-- Kuro
 - Kyrok
 - Lano
 - LawX
 - Level Nine
 - Lilium
 - Linearity
-- LiveEO
 - Lookiero Outfittery Group
 - Lufthansa Innovation Hub
 - Mercedes Pay
 - Mews
 - Midas
 - Mister Spex
-- Moss
 - Nagarro
 - Nanolope
 - Nenna AI
@@ -100,10 +91,8 @@ These need a pinned feed in companies.txt or are covered by Claude's daily check
 - NexDash
 - NextGO Epi
 - Nomerra
-- Nomos
 - Novumstate
 - Nox Mobility
-- Noxtua
 - Nuri
 - OYL Foods
 - OllyGarden
@@ -119,26 +108,21 @@ These need a pinned feed in companies.txt or are covered by Claude's daily check
 - Phase0
 - Placed
 - Planetly
-- Plato
 - Pleo
 - Porelio
-- Prior Labs
 - Publicis Sapient
-- Qdrant
 - Qonto
 - Rain
 - Ratepay
 - Recare
 - Remi Health
 - SO1
-- SPREAD AI
 - Salesforce
 - Scalable Capital
 - Sendify
 - Sennder
 - Seqana
 - Service4Charger
-- Seven Education
 - Shares.io
 - Smava
 - Softgarden
@@ -164,7 +148,6 @@ These need a pinned feed in companies.txt or are covered by Claude's daily check
 - Unzer
 - Urban Sports Club
 - VARM
-- VREY
 - Vinted
 - Visa
 - Vivanta
@@ -174,7 +157,6 @@ These need a pinned feed in companies.txt or are covered by Claude's daily check
 - WhyBrilliant
 - Wolt
 - World Food Programme
-- YGO
 - YOU(th)
 - Yager Games
 - Yara International
@@ -183,16 +165,12 @@ These need a pinned feed in companies.txt or are covered by Claude's daily check
 - Zelara
 - Zell
 - atlea
-- bunch
-- cargo.one
 - enclaive
 - finperks
 - hellomed
-- heyData
 - metiundo
 - metr
 - mika
-- n8n
 - reverse.fashion
 - sci2sci
 - telli
