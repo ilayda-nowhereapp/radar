@@ -1,10 +1,10 @@
 # Coverage
 
-Updated 2026-11-13T16:47:27.001927+00:00
+Updated 2026-11-13T17:44:42.472428+00:00
 
-129 of 300 companies have a job feed the radar checks every run.
+131 of 300 companies have a job feed the radar checks every run.
 
-## No public feed found (171)
+## No public feed found (169)
 
 These need a pinned feed in companies.txt or are covered by Claude's daily check.
 
@@ -19,7 +19,6 @@ These need a pinned feed in companies.txt or are covered by Claude's daily check
 - Arvato Financial Services
 - Ascléa
 - Audi
-- AutoScout24
 - Aviv
 - BASF
 - Barclays Corporate & Investment Bank
@@ -168,7 +167,6 @@ These need a pinned feed in companies.txt or are covered by Claude's daily check
 - Zelara
 - Zell
 - atlea
-- ecoworks
 - enclaive
 - finperks
 - hellomed
