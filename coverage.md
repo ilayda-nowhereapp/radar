@@ -1,6 +1,6 @@
 # Coverage
 
-Updated 2026-11-12T22:15:41.488417+00:00
+Updated 2026-11-13T05:53:49.723980+00:00
 
 131 of 300 companies have a job feed the radar checks every run.
 
@@ -28,6 +28,7 @@ These need a pinned feed in companies.txt or are covered by Claude's daily check
 - Circle Health
 - Clera
 - ComplyDo
+- Conlio
 - Crown Equipment
 - Cygrid
 - DeepL
@@ -75,6 +76,7 @@ These need a pinned feed in companies.txt or are covered by Claude's daily check
 - Kyrok
 - Lano
 - LawX
+- Lazzaro One
 - Level Nine
 - Lilium
 - Linearity
@@ -175,5 +177,3 @@ These need a pinned feed in companies.txt or are covered by Claude's daily check
 - sci2sci
 - telli
 - €base
-- 🆕 Conlio
-- 🆕 Lazzaro One
