@@ -57,6 +57,8 @@ GetYourGuide | greenhouse:getyourguide
 Google
 Grover
 HelloFresh | greenhouse:hellofresh
+Lovehoney Group | lever_eu:lovehoneygroup
+JD.com | greenhouse:jdcom
 Heycar
 home24
 HomeToGo
