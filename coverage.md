@@ -1,10 +1,10 @@
 # Coverage
 
-Updated 2026-11-16T06:00:26.368087+00:00
+Updated 2026-11-16T09:17:47.498587+00:00
 
-133 of 302 companies have a job feed the radar checks every run.
+132 of 302 companies have a job feed the radar checks every run.
 
-## No public feed found (169)
+## No public feed found (170)
 
 These need a pinned feed in companies.txt or are covered by Claude's daily check.
 
@@ -146,6 +146,7 @@ These need a pinned feed in companies.txt or are covered by Claude's daily check
 - Tokura
 - Tower
 - ToysReloved
+- Trendyol
 - TukToro
 - Unzer
 - Urban Sports Club
