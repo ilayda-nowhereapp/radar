@@ -1,16 +1,18 @@
 # Coverage
 
-Updated 2026-11-17T19:58:02.556893+00:00
+Updated 2026-11-17T20:52:57.859458+00:00
 
-133 of 302 companies have a job feed the radar checks every run.
+108 of 302 companies have a job feed the radar checks every run.
 
-## No public feed found (169)
+## No public feed found (194)
 
 These need a pinned feed in companies.txt or are covered by Claude's daily check.
 
 - AERLIN
 - ARC Intelligence
+- Adidas
 - Agent F
+- Airbank
 - Airbus
 - All3
 - Alldus
@@ -18,22 +20,28 @@ These need a pinned feed in companies.txt or are covered by Claude's daily check
 - Amara
 - Arvato Financial Services
 - Ascléa
-- Audi
 - Aviv
 - BASF
+- BP
 - Barclays Corporate & Investment Bank
 - Berlin Brands Group
+- Blinkist
+- Boston Consulting Group
 - Candis
 - Cellbricks
 - Circle Health
+- Clark
 - Clera
+- Cobalt
 - ComplyDo
 - Conlio
 - Crown Equipment
 - Cygrid
+- DCS
 - DeepL
 - Deutsche Sanierungsberatung
 - Diligent AI
+- Doodle
 - Dr. Vivien Karl
 - Elephant Company
 - Elopage
@@ -43,9 +51,11 @@ These need a pinned feed in companies.txt or are covered by Claude's daily check
 - F13
 - FENKA Robotics
 - Finleap
+- Flink
 - Flocta
 - Focused Energy
 - Forto
+- FreightHub
 - Freshflow
 - Fuchs & Eule
 - Fuxam
@@ -58,6 +68,7 @@ These need a pinned feed in companies.txt or are covered by Claude's daily check
 - HomeToGo
 - Honig Games
 - Hot Boys Cry
+- Hugo Boss
 - Hypathos
 - INJU
 - INXM
@@ -69,8 +80,10 @@ These need a pinned feed in companies.txt or are covered by Claude's daily check
 - Just 4 Noise
 - Just Eat Takeaway
 - Kalz
+- Kayak
 - King
 - Klar
+- Klarna
 - Klöckner
 - Kraken Digital Asset Exchange
 - Kyrok
@@ -80,13 +93,18 @@ These need a pinned feed in companies.txt or are covered by Claude's daily check
 - Level Nine
 - Lilium
 - Linearity
+- LinkedIn
 - Lookiero Outfittery Group
 - Lufthansa Innovation Hub
+- MILES
+- MODIFI
 - Mercedes Pay
+- Meta
 - Mews
+- Microsoft
 - Midas
 - Mister Spex
-- Nagarro
+- Mondu
 - Nanolope
 - Nenna AI
 - Neptune for Kids
@@ -100,15 +118,20 @@ These need a pinned feed in companies.txt or are covered by Claude's daily check
 - OllyGarden
 - On
 - OneFootball
+- Onfido
 - OpenPayd
+- Opera
 - Orange Quarter
 - PPRO
 - Pace Race
 - Pacifico Biolab
 - Palma.ai
+- PayPal
+- Payment Genes
+- Penta
+- Personio
 - Phantasma Labs
 - Phase0
-- Placed
 - Planetly
 - Pleo
 - Porelio
@@ -118,10 +141,11 @@ These need a pinned feed in companies.txt or are covered by Claude's daily check
 - Ratepay
 - Recare
 - Remi Health
+- Revolut
+- SAP
 - SO1
 - Salesforce
 - Scalable Capital
-- Sendify
 - Sennder
 - Seqana
 - Service4Charger
@@ -146,10 +170,10 @@ These need a pinned feed in companies.txt or are covered by Claude's daily check
 - Tokura
 - Tower
 - ToysReloved
+- Trendyol
 - TukToro
 - Unzer
 - Urban Sports Club
-- VARM
 - Vinted
 - Visa
 - Vivanta
@@ -167,6 +191,7 @@ These need a pinned feed in companies.txt or are covered by Claude's daily check
 - Zelara
 - Zell
 - atlea
+- eBay
 - enclaive
 - finperks
 - hellomed
