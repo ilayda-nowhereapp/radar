@@ -1,10 +1,10 @@
 # Coverage
 
-Updated 2026-11-19T09:56:46.072950+00:00
+Updated 2026-11-19T10:57:44.742585+00:00
 
-149 of 302 companies have a job feed the radar checks every run.
+149 of 304 companies have a job feed the radar checks every run.
 
-## No public feed found (153)
+## No public feed found (155)
 
 These need a pinned feed in companies.txt or are covered by Claude's daily check.
 
@@ -95,6 +95,7 @@ These need a pinned feed in companies.txt or are covered by Claude's daily check
 - OllyGarden
 - On
 - OneFootball
+- Opdo
 - OpenPayd
 - PPRO
 - Pace Race
@@ -159,5 +160,6 @@ These need a pinned feed in companies.txt or are covered by Claude's daily check
 - mika
 - reverse.fashion
 - sci2sci
+- sennder
 - telli
 - €base
