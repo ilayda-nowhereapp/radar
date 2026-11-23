@@ -1,10 +1,10 @@
 # Coverage
 
-Updated 2026-11-23T20:01:43.790068+00:00
+Updated 2026-11-23T21:19:01.644414+00:00
 
-145 of 304 companies have a job feed the radar checks every run.
+148 of 304 companies have a job feed the radar checks every run.
 
-## No public feed found (159)
+## No public feed found (156)
 
 These need a pinned feed in companies.txt or are covered by Claude's daily check.
 
@@ -57,14 +57,12 @@ These need a pinned feed in companies.txt or are covered by Claude's daily check
 - Honig Games
 - Hot Boys Cry
 - Hypathos
-- IDnow
 - INJU
 - INXM
 - IX Group
 - ImmobilienScout24
 - Immoly
 - Insellar
-- JetBrains
 - Joy
 - Just 4 Noise
 - Kalz
@@ -113,7 +111,6 @@ These need a pinned feed in companies.txt or are covered by Claude's daily check
 - Ratepay
 - Recare
 - Remi Health
-- Riot Games
 - SO1
 - Scalable Capital
 - Sennder
