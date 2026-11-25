@@ -1,16 +1,18 @@
 # Coverage
 
-Updated 2026-11-25T16:59:13.179010+00:00
+Updated 2026-11-25T17:51:20.676873+00:00
 
-148 of 304 companies have a job feed the radar checks every run.
+106 of 304 companies have a job feed the radar checks every run.
 
-## No public feed found (156)
+## No public feed found (198)
 
 These need a pinned feed in companies.txt or are covered by Claude's daily check.
 
 - AERLIN
 - ARC Intelligence
+- Adidas
 - Agent F
+- Airbank
 - Airbus
 - All3
 - Alldus
@@ -19,18 +21,28 @@ These need a pinned feed in companies.txt or are covered by Claude's daily check
 - Arvato Financial Services
 - Ascléa
 - Aviv
+- BASF
+- BP
 - Barclays Corporate & Investment Bank
 - Berlin Brands Group
+- Blinkist
+- Bolt
+- Boston Consulting Group
 - Candis
 - Cellbricks
 - Circle Health
+- Clark
 - Clera
+- Cobalt
 - ComplyDo
 - Conlio
+- Crown Equipment
 - Cygrid
+- DCS
 - DeepL
 - Deutsche Sanierungsberatung
 - Diligent AI
+- Doodle
 - Dr. Vivien Karl
 - Elephant Company
 - Elopage
@@ -40,9 +52,11 @@ These need a pinned feed in companies.txt or are covered by Claude's daily check
 - F13
 - FENKA Robotics
 - Finleap
+- Flink
 - Flocta
 - Focused Energy
 - Forto
+- FreightHub
 - Freshflow
 - Fuchs & Eule
 - Fuxam
@@ -56,6 +70,7 @@ These need a pinned feed in companies.txt or are covered by Claude's daily check
 - HomeToGo
 - Honig Games
 - Hot Boys Cry
+- Hugo Boss
 - Hypathos
 - INJU
 - INXM
@@ -63,12 +78,17 @@ These need a pinned feed in companies.txt or are covered by Claude's daily check
 - ImmobilienScout24
 - Immoly
 - Insellar
+- Insha
 - Joy
 - Just 4 Noise
+- Just Eat Takeaway
 - Kalz
+- Kayak
 - King
 - Klar
+- Klarna
 - Klöckner
+- Kontist
 - Kraken Digital Asset Exchange
 - Kyrok
 - Lano
@@ -79,10 +99,16 @@ These need a pinned feed in companies.txt or are covered by Claude's daily check
 - Linearity
 - Lookiero Outfittery Group
 - Lufthansa Innovation Hub
+- MILES
+- MODIFI
 - Mercedes Pay
+- Meta
 - Mews
+- Microsoft
 - Midas
 - Mister Spex
+- Mondu
+- Nagarro
 - Nanolope
 - Nenna AI
 - Neptune for Kids
@@ -96,39 +122,53 @@ These need a pinned feed in companies.txt or are covered by Claude's daily check
 - OllyGarden
 - On
 - OneFootball
+- Onfido
 - Opdo
 - OpenPayd
+- Opera
+- Orange Quarter
 - PPRO
 - Pace Race
 - Pacifico Biolab
 - Palma.ai
+- PayPal
+- Payment Genes
+- Penta
 - Phantasma Labs
 - Phase0
 - Planetly
 - Pleo
 - Porelio
+- Publicis Sapient
+- Qonto
 - Rain
 - Ratepay
 - Recare
 - Remi Health
+- Revolut
+- SAP
 - SO1
+- Salesforce
 - Scalable Capital
 - Sennder
 - Seqana
 - Service4Charger
 - Shares.io
 - Smava
+- Softgarden
 - Solarisbank
 - Sophia
 - Sopra Banking
 - SoundCloud
 - Spark Networks
 - Spread AI
+- Stark
 - Stark Defense
 - TODAY / UseToday
 - Tacalyx
 - Tawo
 - Taxfix
+- Tesla
 - Theo
 - Tier Mobility
 - Tokura
@@ -140,6 +180,7 @@ These need a pinned feed in companies.txt or are covered by Claude's daily check
 - Vinted
 - Visa
 - Vivanta
+- Vivid Money
 - Vivy
 - Wefox
 - WhyBrilliant
@@ -153,6 +194,7 @@ These need a pinned feed in companies.txt or are covered by Claude's daily check
 - Zelara
 - Zell
 - atlea
+- eBay
 - enclaive
 - finperks
 - hellomed

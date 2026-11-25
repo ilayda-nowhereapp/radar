@@ -4,7 +4,7 @@
  },
  "AIRMO": {
   "ats": "personio",
-  "checked": "2026-11-25T16:59:08.079842+00:00",
+  "checked": "2026-11-25T17:51:16.835302+00:00",
   "pinned": true,
   "slug": "airmo"
  },
@@ -12,13 +12,11 @@
   "checked": "2026-11-24T21:27:31.209172+00:00"
  },
  "Adidas": {
-  "ats": "workable",
-  "checked": "2026-11-24T22:27:39.971847+00:00",
-  "slug": "adidas"
+  "checked": "1970-01-01T00:00:00+00:00"
  },
  "Adyen": {
   "ats": "greenhouse",
-  "checked": "2026-11-25T16:59:08.074973+00:00",
+  "checked": "2026-11-25T17:51:16.832229+00:00",
   "pinned": true,
   "slug": "adyen"
  },
@@ -26,9 +24,7 @@
   "checked": "2026-11-24T21:27:06.365373+00:00"
  },
  "Airbank": {
-  "ats": "workable",
-  "checked": "2026-11-24T22:27:40.029485+00:00",
-  "slug": "airbank"
+  "checked": "1970-01-01T00:00:00+00:00"
  },
  "Airbus": {
   "checked": "2026-11-24T21:26:54.440138+00:00"
@@ -98,7 +94,7 @@
  },
  "Auto1": {
   "ats": "smartrecruiters",
-  "checked": "2026-11-25T16:59:08.075613+00:00",
+  "checked": "2026-11-25T17:51:16.832584+00:00",
   "pinned": true,
   "slug": "Auto1"
  },
@@ -111,14 +107,10 @@
   "checked": "2026-11-24T21:26:39.145152+00:00"
  },
  "BASF": {
-  "ats": "workable",
-  "checked": "2026-11-24T22:27:51.460357+00:00",
-  "slug": "basf"
+  "checked": "1970-01-01T00:00:00+00:00"
  },
  "BP": {
-  "ats": "workable",
-  "checked": "2026-11-24T22:27:39.451698+00:00",
-  "slug": "bp"
+  "checked": "1970-01-01T00:00:00+00:00"
  },
  "Babbel": {
   "ats": "ashby",
@@ -147,25 +139,19 @@
   "slug": "bitpanda"
  },
  "Blinkist": {
-  "ats": "workable",
-  "checked": "2026-11-24T22:27:39.950339+00:00",
-  "slug": "blinkist"
+  "checked": "1970-01-01T00:00:00+00:00"
  },
  "Blocks": {
   "ats": "teamtailor",
-  "checked": "2026-11-25T16:59:08.079853+00:00",
+  "checked": "2026-11-25T17:51:16.835311+00:00",
   "pinned": true,
   "slug": "blocks"
  },
  "Bolt": {
-  "ats": "workable",
-  "checked": "2026-11-24T22:27:50.263335+00:00",
-  "slug": "bolt"
+  "checked": "1970-01-01T00:00:00+00:00"
  },
  "Boston Consulting Group": {
-  "ats": "workable",
-  "checked": "2026-11-24T22:27:54.197772+00:00",
-  "slug": "boston-consulting"
+  "checked": "1970-01-01T00:00:00+00:00"
  },
  "Bounti": {
   "ats": "personio",
@@ -190,7 +176,7 @@
  },
  "Checkout.com": {
   "ats": "greenhouse",
-  "checked": "2026-11-25T16:59:08.076635+00:00",
+  "checked": "2026-11-25T17:51:16.833219+00:00",
   "pinned": true,
   "slug": "checkoutcom"
  },
@@ -198,9 +184,7 @@
   "checked": "2026-11-24T21:27:06.514820+00:00"
  },
  "Clark": {
-  "ats": "workable",
-  "checked": "2026-11-24T22:27:53.743532+00:00",
-  "slug": "clark"
+  "checked": "1970-01-01T00:00:00+00:00"
  },
  "Clera": {
   "checked": "2026-11-24T21:27:07.656210+00:00"
@@ -211,13 +195,11 @@
   "slug": "cloover"
  },
  "Cobalt": {
-  "ats": "workable",
-  "checked": "2026-11-24T22:27:39.933852+00:00",
-  "slug": "cobalt"
+  "checked": "1970-01-01T00:00:00+00:00"
  },
  "Cognee": {
   "ats": "workable",
-  "checked": "2026-11-25T16:59:08.079846+00:00",
+  "checked": "2026-11-25T17:51:16.835305+00:00",
   "pinned": true,
   "slug": "topoteretes-ug-haftungsbeschrankt"
  },
@@ -229,7 +211,7 @@
  },
  "Contentful": {
   "ats": "greenhouse",
-  "checked": "2026-11-25T16:59:08.076843+00:00",
+  "checked": "2026-11-25T17:51:16.833304+00:00",
   "pinned": true,
   "slug": "contentful"
  },
@@ -244,17 +226,13 @@
   "slug": "cosuno"
  },
  "Crown Equipment": {
-  "ats": "workable",
-  "checked": "2026-11-24T22:28:03.488950+00:00",
-  "slug": "crown-equipment"
+  "checked": "1970-01-01T00:00:00+00:00"
  },
  "Cygrid": {
   "checked": "2026-11-24T21:27:31.318823+00:00"
  },
  "DCS": {
-  "ats": "workable",
-  "checked": "2026-11-24T22:27:53.701016+00:00",
-  "slug": "dcs"
+  "checked": "1970-01-01T00:00:00+00:00"
  },
  "DeepL": {
   "checked": "2026-11-24T21:26:38.870597+00:00"
@@ -266,7 +244,7 @@
  },
  "Delivery Hero": {
   "ats": "smartrecruiters",
-  "checked": "2026-11-25T16:59:08.077054+00:00",
+  "checked": "2026-11-25T17:51:16.833399+00:00",
   "pinned": true,
   "slug": "DeliveryHero"
  },
@@ -282,13 +260,11 @@
   "slug": "doctolib"
  },
  "Doodle": {
-  "ats": "workable",
-  "checked": "2026-11-24T22:27:39.909284+00:00",
-  "slug": "doodle"
+  "checked": "1970-01-01T00:00:00+00:00"
  },
  "DoorDash": {
   "ats": "greenhouse",
-  "checked": "2026-11-25T16:59:08.077230+00:00",
+  "checked": "2026-11-25T17:51:16.833503+00:00",
   "pinned": true,
   "slug": "doordashusa"
  },
@@ -302,7 +278,7 @@
  },
  "Duolingo": {
   "ats": "greenhouse",
-  "checked": "2026-11-25T16:59:08.077397+00:00",
+  "checked": "2026-11-25T17:51:16.833617+00:00",
   "pinned": true,
   "slug": "duolingo"
  },
@@ -337,20 +313,18 @@
  },
  "Finmid": {
   "ats": "ashby",
-  "checked": "2026-11-25T16:59:08.079745+00:00",
+  "checked": "2026-11-25T17:51:16.835243+00:00",
   "pinned": true,
   "slug": "finmid.com"
  },
  "Flagright": {
   "ats": "ashby",
-  "checked": "2026-11-25T16:59:08.079749+00:00",
+  "checked": "2026-11-25T17:51:16.835247+00:00",
   "pinned": true,
   "slug": "flagright.com"
  },
  "Flink": {
-  "ats": "workable",
-  "checked": "2026-11-24T22:27:39.413706+00:00",
-  "slug": "flink"
+  "checked": "1970-01-01T00:00:00+00:00"
  },
  "Flix": {
   "ats": "greenhouse",
@@ -367,9 +341,7 @@
   "checked": "2026-11-24T21:26:38.948957+00:00"
  },
  "FreightHub": {
-  "ats": "workable",
-  "checked": "2026-11-24T22:27:39.995830+00:00",
-  "slug": "freighthub"
+  "checked": "1970-01-01T00:00:00+00:00"
  },
  "Freshflow": {
   "checked": "2026-11-24T21:27:12.237038+00:00"
@@ -390,7 +362,7 @@
  },
  "GetYourGuide": {
   "ats": "greenhouse",
-  "checked": "2026-11-25T16:59:08.079442+00:00",
+  "checked": "2026-11-25T17:51:16.835012+00:00",
   "pinned": true,
   "slug": "getyourguide"
  },
@@ -421,7 +393,7 @@
  },
  "HelloFresh": {
   "ats": "greenhouse",
-  "checked": "2026-11-25T16:59:08.079458+00:00",
+  "checked": "2026-11-25T17:51:16.835024+00:00",
   "pinned": true,
   "slug": "hellofresh"
  },
@@ -438,9 +410,7 @@
   "checked": "2026-11-24T21:27:11.718578+00:00"
  },
  "Hugo Boss": {
-  "ats": "workable",
-  "checked": "2026-11-24T22:27:39.929760+00:00",
-  "slug": "hugoboss"
+  "checked": "1970-01-01T00:00:00+00:00"
  },
  "Hypathos": {
   "checked": "2026-11-24T21:26:42.235909+00:00"
@@ -469,19 +439,17 @@
   "checked": "2026-11-24T21:27:06.129021+00:00"
  },
  "Insha": {
-  "ats": "workable",
-  "checked": "2026-11-24T22:27:39.946780+00:00",
-  "slug": "insha"
+  "checked": "1970-01-01T00:00:00+00:00"
  },
  "Integral": {
   "ats": "ashby",
-  "checked": "2026-11-25T16:59:08.079760+00:00",
+  "checked": "2026-11-25T17:51:16.835255+00:00",
   "pinned": true,
   "slug": "integral-de"
  },
  "JD.com": {
   "ats": "greenhouse",
-  "checked": "2026-11-25T16:59:08.079468+00:00",
+  "checked": "2026-11-25T17:51:16.835032+00:00",
   "pinned": true,
   "slug": "jdcom"
  },
@@ -497,17 +465,13 @@
   "checked": "2026-11-24T21:27:05.551439+00:00"
  },
  "Just Eat Takeaway": {
-  "ats": "workable",
-  "checked": "2026-11-24T22:27:53.500459+00:00",
-  "slug": "justeattakeaway"
+  "checked": "1970-01-01T00:00:00+00:00"
  },
  "Kalz": {
   "checked": "2026-11-24T21:27:24.574983+00:00"
  },
  "Kayak": {
-  "ats": "workable",
-  "checked": "2026-11-24T22:27:50.071558+00:00",
-  "slug": "kayak"
+  "checked": "1970-01-01T00:00:00+00:00"
  },
  "Kazimi": {
   "ats": "greenhouse",
@@ -521,9 +485,7 @@
   "checked": "2026-11-24T21:26:42.138195+00:00"
  },
  "Klarna": {
-  "ats": "workable",
-  "checked": "2026-11-24T22:27:55.220230+00:00",
-  "slug": "klarna"
+  "checked": "1970-01-01T00:00:00+00:00"
  },
  "Klöckner": {
   "checked": "2026-11-24T21:27:00.937717+00:00"
@@ -534,16 +496,14 @@
   "slug": "kombo"
  },
  "Kontist": {
-  "ats": "workable",
-  "checked": "2026-11-24T22:27:42.927957+00:00",
-  "slug": "kontist"
+  "checked": "1970-01-01T00:00:00+00:00"
  },
  "Kraken Digital Asset Exchange": {
   "checked": "2026-11-24T21:26:49.343464+00:00"
  },
  "Kuro": {
   "ats": "ashby",
-  "checked": "2026-11-25T16:59:08.079764+00:00",
+  "checked": "2026-11-25T17:51:16.835258+00:00",
   "pinned": true,
   "slug": "kuro"
  },
@@ -580,7 +540,7 @@
  },
  "LiveEO": {
   "ats": "personio",
-  "checked": "2026-11-25T16:59:08.079821+00:00",
+  "checked": "2026-11-25T17:51:16.835283+00:00",
   "pinned": true,
   "slug": "liveeo-gmbh"
  },
@@ -589,7 +549,7 @@
  },
  "Lovehoney Group": {
   "ats": "lever_eu",
-  "checked": "2026-11-25T16:59:08.079463+00:00",
+  "checked": "2026-11-25T17:51:16.835028+00:00",
   "pinned": true,
   "slug": "lovehoneygroup"
  },
@@ -597,37 +557,29 @@
   "checked": "2026-11-24T21:26:49.068152+00:00"
  },
  "MILES": {
-  "ats": "workable",
-  "checked": "2026-11-24T22:27:41.894041+00:00",
-  "slug": "miles"
+  "checked": "1970-01-01T00:00:00+00:00"
  },
  "MODIFI": {
-  "ats": "workable",
-  "checked": "2026-11-24T22:27:42.540307+00:00",
-  "slug": "modifi"
+  "checked": "1970-01-01T00:00:00+00:00"
  },
  "Mercedes Pay": {
   "checked": "2026-11-24T21:26:49.152345+00:00"
  },
  "Meta": {
-  "ats": "workable",
-  "checked": "2026-11-24T22:27:54.132013+00:00",
-  "slug": "meta"
+  "checked": "1970-01-01T00:00:00+00:00"
  },
  "Mews": {
   "checked": "2026-11-24T21:26:42.200215+00:00"
  },
  "Microsoft": {
-  "ats": "workable",
-  "checked": "2026-11-24T22:27:42.486156+00:00",
-  "slug": "microsoft"
+  "checked": "1970-01-01T00:00:00+00:00"
  },
  "Midas": {
   "checked": "2026-11-24T21:27:05.723168+00:00"
  },
  "Miro": {
   "ats": "greenhouse",
-  "checked": "2026-11-25T16:59:08.079533+00:00",
+  "checked": "2026-11-25T17:51:16.835082+00:00",
   "pinned": true,
   "slug": "realtimeboardglobal"
  },
@@ -635,9 +587,7 @@
   "checked": "2026-11-24T21:26:49.213269+00:00"
  },
  "Mondu": {
-  "ats": "workable",
-  "checked": "2026-11-24T22:27:41.929141+00:00",
-  "slug": "mondu"
+  "checked": "1970-01-01T00:00:00+00:00"
  },
  "Moonfare": {
   "ats": "greenhouse",
@@ -646,20 +596,18 @@
  },
  "Moss": {
   "ats": "ashby",
-  "checked": "2026-11-25T16:59:08.079753+00:00",
+  "checked": "2026-11-25T17:51:16.835250+00:00",
   "pinned": true,
   "slug": "moss"
  },
  "N26": {
   "ats": "greenhouse",
-  "checked": "2026-11-25T16:59:08.079546+00:00",
+  "checked": "2026-11-25T17:51:16.835094+00:00",
   "pinned": true,
   "slug": "n26"
  },
  "Nagarro": {
-  "ats": "workable",
-  "checked": "2026-11-24T22:27:48.702944+00:00",
-  "slug": "nagarro"
+  "checked": "1970-01-01T00:00:00+00:00"
  },
  "Nanolope": {
   "checked": "2026-11-24T21:27:27.085775+00:00"
@@ -686,7 +634,7 @@
  },
  "Nomos": {
   "ats": "ashby",
-  "checked": "2026-11-25T16:59:08.079757+00:00",
+  "checked": "2026-11-25T17:51:16.835252+00:00",
   "pinned": true,
   "slug": "nomos"
  },
@@ -698,7 +646,7 @@
  },
  "Noxtua": {
   "ats": "personio",
-  "checked": "2026-11-25T16:59:08.079824+00:00",
+  "checked": "2026-11-25T17:51:16.835287+00:00",
   "pinned": true,
   "slug": "noxtua"
  },
@@ -733,9 +681,7 @@
   "checked": "2026-11-24T21:26:43.436370+00:00"
  },
  "Onfido": {
-  "ats": "workable",
-  "checked": "2026-11-24T22:27:51.442121+00:00",
-  "slug": "onfido"
+  "checked": "1970-01-01T00:00:00+00:00"
  },
  "Opdo": {
   "checked": "2026-11-19T10:57:41.072502+00:00"
@@ -744,14 +690,10 @@
   "checked": "2026-11-24T21:26:45.175614+00:00"
  },
  "Opera": {
-  "ats": "workable",
-  "checked": "2026-11-24T22:27:41.975695+00:00",
-  "slug": "opera"
+  "checked": "1970-01-01T00:00:00+00:00"
  },
  "Orange Quarter": {
-  "ats": "workable",
-  "checked": "2026-11-24T22:27:45.917837+00:00",
-  "slug": "orange-quarter"
+  "checked": "1970-01-01T00:00:00+00:00"
  },
  "PPRO": {
   "checked": "2026-11-24T21:26:45.071804+00:00"
@@ -781,19 +723,13 @@
   "slug": "patronus"
  },
  "PayPal": {
-  "ats": "workable",
-  "checked": "2026-11-24T22:27:58.089323+00:00",
-  "slug": "paypal"
+  "checked": "1970-01-01T00:00:00+00:00"
  },
  "Payment Genes": {
-  "ats": "workable",
-  "checked": "2026-11-24T22:27:50.370194+00:00",
-  "slug": "paymentgenes"
+  "checked": "1970-01-01T00:00:00+00:00"
  },
  "Penta": {
-  "ats": "workable",
-  "checked": "2026-11-24T22:27:43.480169+00:00",
-  "slug": "penta"
+  "checked": "1970-01-01T00:00:00+00:00"
  },
  "Personio": {
   "ats": "personio",
@@ -816,7 +752,7 @@
  },
  "Plato": {
   "ats": "personio",
-  "checked": "2026-11-25T16:59:08.079817+00:00",
+  "checked": "2026-11-25T17:51:16.835281+00:00",
   "pinned": true,
   "slug": "platoapp"
  },
@@ -833,18 +769,16 @@
  },
  "Prior Labs": {
   "ats": "ashby",
-  "checked": "2026-11-25T16:59:08.079768+00:00",
+  "checked": "2026-11-25T17:51:16.835261+00:00",
   "pinned": true,
   "slug": "prior-labs"
  },
  "Publicis Sapient": {
-  "ats": "workable",
-  "checked": "2026-11-24T22:27:47.791993+00:00",
-  "slug": "publicis-sapient"
+  "checked": "1970-01-01T00:00:00+00:00"
  },
  "Qdrant": {
   "ats": "ashby",
-  "checked": "2026-11-25T16:59:08.079772+00:00",
+  "checked": "2026-11-25T17:51:16.835264+00:00",
   "pinned": true,
   "slug": "qdrant.tech"
  },
@@ -854,9 +788,7 @@
   "slug": "qontext"
  },
  "Qonto": {
-  "ats": "workable",
-  "checked": "2026-11-24T22:27:44.546861+00:00",
-  "slug": "qonto"
+  "checked": "1970-01-01T00:00:00+00:00"
  },
  "Qorelo": {
   "ats": "ashby",
@@ -881,9 +813,7 @@
   "slug": "restate"
  },
  "Revolut": {
-  "ats": "workable",
-  "checked": "2026-11-24T22:27:45.095508+00:00",
-  "slug": "revolut"
+  "checked": "1970-01-01T00:00:00+00:00"
  },
  "Riot Games": {
   "ats": "greenhouse",
@@ -891,23 +821,19 @@
   "slug": "riotgames"
  },
  "SAP": {
-  "ats": "workable",
-  "checked": "2026-11-24T22:27:45.530050+00:00",
-  "slug": "sap"
+  "checked": "1970-01-01T00:00:00+00:00"
  },
  "SO1": {
   "checked": "2026-11-24T21:26:48.109808+00:00"
  },
  "SPREAD AI": {
   "ats": "personio",
-  "checked": "2026-11-25T16:59:08.079828+00:00",
+  "checked": "2026-11-25T17:51:16.835289+00:00",
   "pinned": true,
   "slug": "spread-gmbh"
  },
  "Salesforce": {
-  "ats": "workable",
-  "checked": "2026-11-24T22:27:45.861019+00:00",
-  "slug": "salesforce"
+  "checked": "1970-01-01T00:00:00+00:00"
  },
  "Scalable Capital": {
   "checked": "2026-11-24T21:26:53.433992+00:00"
@@ -928,7 +854,7 @@
  },
  "Seven Education": {
   "ats": "personio",
-  "checked": "2026-11-25T16:59:08.079834+00:00",
+  "checked": "2026-11-25T17:51:16.835296+00:00",
   "pinned": true,
   "slug": "7education"
  },
@@ -937,7 +863,7 @@
  },
  "Smartly.io": {
   "ats": "greenhouse",
-  "checked": "2026-11-25T16:59:08.079618+00:00",
+  "checked": "2026-11-25T17:51:16.835146+00:00",
   "pinned": true,
   "slug": "smartlyio"
  },
@@ -950,9 +876,7 @@
   "slug": "snowflake"
  },
  "Softgarden": {
-  "ats": "workable",
-  "checked": "2026-11-24T22:27:47.138076+00:00",
-  "slug": "softgarden"
+  "checked": "1970-01-01T00:00:00+00:00"
  },
  "Solarisbank": {
   "checked": "2026-11-24T21:26:48.397004+00:00"
@@ -971,7 +895,7 @@
  },
  "Spotify": {
   "ats": "lever",
-  "checked": "2026-11-25T16:59:08.079645+00:00",
+  "checked": "2026-11-25T17:51:16.835168+00:00",
   "pinned": true,
   "slug": "spotify"
  },
@@ -979,9 +903,7 @@
   "checked": "2026-11-24T21:27:32.630441+00:00"
  },
  "Stark": {
-  "ats": "workable",
-  "checked": "2026-11-24T22:27:50.604759+00:00",
-  "slug": "stark"
+  "checked": "1970-01-01T00:00:00+00:00"
  },
  "Stark Defense": {
   "checked": "2026-11-24T21:27:13.167153+00:00"
@@ -993,7 +915,7 @@
  },
  "Stripe": {
   "ats": "greenhouse",
-  "checked": "2026-11-25T16:59:08.079651+00:00",
+  "checked": "2026-11-25T17:51:16.835173+00:00",
   "pinned": true,
   "slug": "stripe"
  },
@@ -1030,9 +952,7 @@
   "slug": "terralayr"
  },
  "Tesla": {
-  "ats": "workable",
-  "checked": "2026-11-24T22:27:54.782625+00:00",
-  "slug": "tesla"
+  "checked": "1970-01-01T00:00:00+00:00"
  },
  "Theo": {
   "checked": "2026-11-24T21:27:15.091552+00:00"
@@ -1090,7 +1010,7 @@
  },
  "VREY": {
   "ats": "ashby",
-  "checked": "2026-11-25T16:59:08.079775+00:00",
+  "checked": "2026-11-25T17:51:16.835266+00:00",
   "pinned": true,
   "slug": "VREY"
  },
@@ -1109,9 +1029,7 @@
   "checked": "2026-11-24T21:26:58.491100+00:00"
  },
  "Vivid Money": {
-  "ats": "workable",
-  "checked": "2026-11-24T22:27:51.419302+00:00",
-  "slug": "vivid-money"
+  "checked": "1970-01-01T00:00:00+00:00"
  },
  "Vivy": {
   "checked": "2026-11-24T21:26:51.204911+00:00"
@@ -1135,7 +1053,7 @@
  },
  "YGO": {
   "ats": "ashby",
-  "checked": "2026-11-25T16:59:08.079800+00:00",
+  "checked": "2026-11-25T17:51:16.835269+00:00",
   "pinned": true,
   "slug": "ygo"
  },
@@ -1325,20 +1243,18 @@
  },
  "bunch": {
   "ats": "ashby",
-  "checked": "2026-11-25T16:59:08.079806+00:00",
+  "checked": "2026-11-25T17:51:16.835272+00:00",
   "pinned": true,
   "slug": "bunch"
  },
  "cargo.one": {
   "ats": "ashby",
-  "checked": "2026-11-25T16:59:08.079810+00:00",
+  "checked": "2026-11-25T17:51:16.835275+00:00",
   "pinned": true,
   "slug": "cargo-one"
  },
  "eBay": {
-  "ats": "workable",
-  "checked": "2026-11-24T22:27:39.427160+00:00",
-  "slug": "ebay"
+  "checked": "1970-01-01T00:00:00+00:00"
  },
  "ecoworks": {
   "ats": "greenhouse",
@@ -1361,7 +1277,7 @@
  },
  "heyData": {
   "ats": "teamtailor",
-  "checked": "2026-11-25T16:59:08.079850+00:00",
+  "checked": "2026-11-25T17:51:16.835308+00:00",
   "pinned": true,
   "slug": "heydata"
  },
@@ -1381,7 +1297,7 @@
  },
  "n8n": {
   "ats": "ashby",
-  "checked": "2026-11-25T16:59:08.079813+00:00",
+  "checked": "2026-11-25T17:51:16.835278+00:00",
   "pinned": true,
   "slug": "n8n"
  },
