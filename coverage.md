@@ -1,6 +1,6 @@
 # Coverage
 
-Updated 2026-11-26T17:50:50.349259+00:00
+Updated 2026-11-26T18:51:39.575245+00:00
 
 147 of 304 companies have a job feed the radar checks every run.
 
@@ -77,7 +77,6 @@ These need a pinned feed in companies.txt or are covered by Claude's daily check
 - Level Nine
 - Lilium
 - Linearity
-- LinkedIn
 - Lookiero Outfittery Group
 - Lufthansa Innovation Hub
 - Mercedes Pay
@@ -135,6 +134,7 @@ These need a pinned feed in companies.txt or are covered by Claude's daily check
 - Tokura
 - Tower
 - ToysReloved
+- Trendyol
 - TukToro
 - Unzer
 - Urban Sports Club
